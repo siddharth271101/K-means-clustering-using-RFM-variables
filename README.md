@@ -1,5 +1,5 @@
 # K-means-clustering-using-RFM-variables
-Objective : To perform customer segmentation based on key attributes Recency, Frequency & Monetary (RFM) using K-means.
+Objective : Create customer segments by understanding their purchase behaviour for an online retail business.
 
 What is customer segmentation?
 Customer segmentation is a method of dividing customers into groups or clusters on the basis of common characteristics.
@@ -18,9 +18,9 @@ Types of segmentation
 What is RFM Analysis?
 RFM analysis is a customer segmentation technique that uses past purchase behavior to divide customers into groups,based on
 
-RECENCY (R): Time since last purchase
-FREQUENCY (F): Total number of purchases
-MONETARY VALUE (M): Total monetary value
+- RECENCY (R): Time since last purchase
+- FREQUENCY (F): Total number of purchases
+- MONETARY VALUE (M): Total monetary value
 
 K-means clustering algorithm to segment the customers and used Elbow method to find the optimal number of K clusters.
 
