@@ -32,3 +32,7 @@ Main Python Libraries used:
 
 About the dataset
 According to the website for the UCI repository (ref. https://archive.ics.uci.edu/ml/datasets/Online+Retail), this transactional dataset reflects transactions (approx. 1 year's worth) effected between 01/12/2010 and 09/12/2011 for a registered non-store online retail based in the UK.
+
+References
+- https://www.datacamp.com/community/tutorials/introduction-customer-segmentation-python
+- https://towardsdatascience.com/the-most-important-data-science-tool-for-market-and-customer-segmentation-c9709ca0b64a
